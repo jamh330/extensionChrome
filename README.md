@@ -3,7 +3,7 @@
 Esta es una extensión de Chrome que permite a los usuarios agregar textos predefinidos en cajas de texto, crear textos personalizados para utilizar luego, buscar información en Google y contar caracteres.
 
 Esta realizada con la ayuda de chrome-extension-cli
-´npm install -g chrome-extension-cli´ 
+`npm install -g chrome-extension-cli` 
 
 ## Manual chrome-extension-cli
 
