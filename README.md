@@ -13,15 +13,15 @@ https://github.com/dutiyesh/chrome-extension-cli
 
 1. Clona este repositorio:
 
-`git clone https://github.com/jamh330/extensionChrome.git`
+    `git clone https://github.com/jamh330/extensionChrome.git`
 
 2. Navega hasta la carpeta del proyecto:
 
-`cd extensionChrome`
+    `cd extensionChrome`
 
 3. Instala las dependencias:
 
-`npm install`
+    `npm install`
 
 4. Puedes comenzar a modificar el codigo o fabricar la aplicación
 
