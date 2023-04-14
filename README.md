@@ -23,15 +23,15 @@ https://github.com/dutiyesh/chrome-extension-cli
 
     `npm install`
 
-4. Puedes comenzar a modificar el codigo o fabricar la aplicación
+4. Puedes comenzar a modificar el código o fabricar la aplicación
 
-    4.1 Construir App (construye carpeta build para produccion)
+    4.1 Construir App (construye carpeta build para producción)
     `npm run build`
 
     4.2 Dejar App en modo escucha para guardar cambios
     `npm run watch`
 
-5. Una vez tengas tus cambios contruidos y tengas la carpeta build, realoza ños siguientes pasos
+5. Una vez tengas tus cambios realizados y se haya creado la carpeta build, realiza los siguientes pasos
     5.1 Abre chrome://extensions
     5.2 Marca la casilla de modo Desarrollador
     5.3 Haz clic en el botón "Cargar descomprimida"
@@ -64,9 +64,9 @@ La extensión incluye una función para contar caracteres en un texto selecciona
 
 
 
-## Contribution
+## Contribuciones
 
-Suggestions and pull requests are welcomed!.
+Si deseas contribuir a este proyecto, no dudes en enviar un Pull Request o abrir un Issue para discutir las mejoras o correcciones que podrían realizarse.
 
 ---
 
