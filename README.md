@@ -32,9 +32,13 @@ https://github.com/dutiyesh/chrome-extension-cli
     `npm run watch`
 
 5. Una vez tengas tus cambios realizados y se haya creado la carpeta build, realiza los siguientes pasos
+
     5.1 Abre chrome://extensions
+    
     5.2 Marca la casilla de modo Desarrollador
+    
     5.3 Haz clic en el botón "Cargar descomprimida"
+    
     5.4 Selecciona la carpeta "my-extension/build"
 
 ## Tecnologías utilizadas
