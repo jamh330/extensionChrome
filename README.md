@@ -25,17 +25,17 @@ https://github.com/dutiyesh/chrome-extension-cli
 
 4. Puedes comenzar a modificar el codigo o fabricar la aplicación
 
-4.1 Construir App (construye carpeta build para produccion)
-`npm run build`
+    4.1 Construir App (construye carpeta build para produccion)
+    `npm run build`
 
-4.2 Dejar App en modo escucha para guardar cambios
-`npm run build`
+    4.2 Dejar App en modo escucha para guardar cambios
+    `npm run watch`
 
 5. Una vez tengas tus cambios contruidos y tengas la carpeta build, realoza ños siguientes pasos
-5.1 Abre chrome://extensions
-5.2 Marca la casilla de modo Desarrollador
-5.3 Haz clic en el botón "Cargar descomprimida"
-5.4 Selecciona la carpeta "my-extension/build"
+    5.1 Abre chrome://extensions
+    5.2 Marca la casilla de modo Desarrollador
+    5.3 Haz clic en el botón "Cargar descomprimida"
+    5.4 Selecciona la carpeta "my-extension/build"
 
 ## Tecnologías utilizadas
 
