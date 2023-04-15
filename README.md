@@ -9,7 +9,7 @@ Esta realizada con la ayuda de chrome-extension-cli
 
 https://github.com/dutiyesh/chrome-extension-cli
 
-## Como Utilizar
+## Como Utilizar Repositorio
 
 1. Clona este repositorio:
 
@@ -51,25 +51,25 @@ https://github.com/dutiyesh/chrome-extension-cli
 - [chrome-extension-cli](https://www.npmjs.com/package/chrome-extension-cli)
 
 
-## Cómo utilizar
+## Caracteristicas y funciones Extensión
 Para utilizar la extensión, primero debe ser instalada en el navegador. A continuación, se explican las funciones que se encuentran disponibles:
 
 #### Tranformación de Texto (capitaliza, mayus, minus)
 En un texto seleccionado podrás cambiar el mismo a su formato capitalizado (primera letra de cada palabra en mayuscula), todo en mayuscula o todo en minuscula.
 
-### Textos predefinidos
+#### Textos predefinidos
 La extensión incluye una serie de textos predefinidos que se pueden pegar en cajas de texto. Para utilizarlos, haga clic derecho en la caja de texto y seleccione el texto deseado en el menú contextual.
 
-### Textos personalizados
+#### Textos personalizados
 La extensión también permite crear textos personalizados que se pueden utilizar luego en cajas de texto. Para crear un texto personalizado, haga clic en el botón "Agregar nuevo texto" en el panel de opciones de la extensión. Ingrese un nombre para el texto y el contenido deseado, y haga clic en "Guardar". El texto personalizado aparecerá en el menú contextual de la extensión.
 
-### Búsqueda en Google
+#### Búsqueda en Google
 La extensión también permite realizar búsquedas en Google directamente desde el menú contextual. Para utilizar esta función, seleccione el texto que desea buscar, haga clic derecho y seleccione "Buscar en Google".
 
-### Conteo de caracteres
+#### Conteo de caracteres
 La extensión incluye una función para contar caracteres en un texto seleccionado. Para utilizar esta función, seleccione el texto deseado, haga clic derecho y seleccione "Contar caracteres" en el menú contextual.
 
-### Manejo DOM
+#### Manejo DOM
 La extensión desarrollada cuenta con la capacidad de manipular el Document Object Model (DOM) de cualquier sitio web, permitiendo realizar mejoras o cambios en la interfaz de usuario y en la funcionalidad de la página. Esto significa que se pueden agregar o eliminar elementos de la página, modificar el contenido existente, aplicar estilos y efectos visuales, y mucho más. Gracias a estas funcionalidades, la extensión puede ser una herramienta muy poderosa para mejorar la experiencia del usuario en cualquier sitio web. 
 
 (En el proyecto buscar archivo /public/search.js)
