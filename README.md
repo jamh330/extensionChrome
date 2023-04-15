@@ -54,7 +54,7 @@ https://github.com/dutiyesh/chrome-extension-cli
 ## Cómo utilizar
 Para utilizar la extensión, primero debe ser instalada en el navegador. A continuación, se explican las funciones que se encuentran disponibles:
 
-### Tranformación de Texto (capitaliza, mayus, minus)
+#### Tranformación de Texto (capitaliza, mayus, minus)
 En un texto seleccionado podrás cambiar el mismo a su formato capitalizado (primera letra de cada palabra en mayuscula), todo en mayuscula o todo en minuscula.
 
 ### Textos predefinidos
