@@ -66,7 +66,19 @@ La extensión también permite realizar búsquedas en Google directamente desde 
 ### Conteo de caracteres
 La extensión incluye una función para contar caracteres en un texto seleccionado. Para utilizar esta función, seleccione el texto deseado, haga clic derecho y seleccione "Contar caracteres" en el menú contextual.
 
+## Si Tu Lo Deseas Puedes Volar
 
+Para crear mas extensiones, aquí hay 5 posibles usos que se le podrían dar a las mismas.
+
+1. Agregar funcionalidad para traducir automáticamente el texto seleccionado a diferentes idiomas usando una API de traducción. Por ejemplo, al seleccionar un texto en inglés, la extensión podría proporcionar una opción para traducirlo al español o francés.
+
+2. Incorporar la capacidad de resaltar palabras clave en el texto seleccionado, lo que podría ser útil para lectores que buscan información específica. Por ejemplo, al seleccionar un texto en una página web, la extensión podría resaltar todas las palabras clave relacionadas con la búsqueda.
+
+3. Proporcionar opciones de formateo de texto adicionales, como la capacidad de crear listas numeradas o con viñetas, ajustar el espaciado de líneas o cambiar el tamaño de fuente, negritas entre otros.
+
+4. Agregar un botón de "leer en voz alta" que convierta el texto seleccionado en un archivo de audio para que los usuarios puedan escuchar en lugar de leer.
+
+5. Proporcionar la capacidad de guardar notas rápidas en la extensión y sincronizarlas con una cuenta de Google Drive, lo que permitiría a los usuarios acceder a ellas desde cualquier dispositivo.
 
 ## Contribuciones
 
