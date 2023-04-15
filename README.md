@@ -69,6 +69,9 @@ La extensión también permite realizar búsquedas en Google directamente desde 
 ### Conteo de caracteres
 La extensión incluye una función para contar caracteres en un texto seleccionado. Para utilizar esta función, seleccione el texto deseado, haga clic derecho y seleccione "Contar caracteres" en el menú contextual.
 
+### Manejo DOM
+La extensión desarrollada cuenta con la capacidad de manipular el Document Object Model (DOM) de cualquier sitio web, permitiendo realizar mejoras o cambios en la interfaz de usuario y en la funcionalidad de la página. Esto significa que se pueden agregar o eliminar elementos de la página, modificar el contenido existente, aplicar estilos y efectos visuales, y mucho más. Gracias a estas funcionalidades, la extensión puede ser una herramienta muy poderosa para mejorar la experiencia del usuario en cualquier sitio web. (En el proyecto buscar archivo /public/search.js)
+
 ## Si Tu Lo Deseas Puedes Volar
 
 Para crear mas extensiones, aquí hay 5 posibles usos que se le podrían dar a las mismas.
