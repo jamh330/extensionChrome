@@ -76,7 +76,7 @@ La extensión desarrollada cuenta con la capacidad de manipular el Document Obje
 
 ## Si Tu Lo Deseas Puedes Volar
 
-Para crear mas extensiones, aquí hay 5 posibles usos que se le podrían dar a las mismas.
+Para crear mas extensiones, aquí hay algunos posibles usos que se le podrían dar a las mismas.
 
 1. Agregar funcionalidad para traducir automáticamente el texto seleccionado a diferentes idiomas usando una API de traducción. Por ejemplo, al seleccionar un texto en inglés, la extensión podría proporcionar una opción para traducirlo al español o francés.
 
@@ -87,6 +87,12 @@ Para crear mas extensiones, aquí hay 5 posibles usos que se le podrían dar a l
 4. Agregar un botón de "leer en voz alta" que convierta el texto seleccionado en un archivo de audio para que los usuarios puedan escuchar en lugar de leer.
 
 5. Proporcionar la capacidad de guardar notas rápidas en la extensión y sincronizarlas con una cuenta de Google Drive, lo que permitiría a los usuarios acceder a ellas desde cualquier dispositivo.
+
+6. Automatización de tareas repetitivas: Una extensión que utiliza el DOM puede ser programada para automatizar tareas repetitivas en una página web, como llenar formularios, hacer clic en botones, o incluso generar informes a partir de datos en una página web.
+
+7. Optimización de la experiencia del usuario: Otra idea puede ser el uso de una extensión para mejorar la experiencia del usuario en un sitio web. Por ejemplo, se puede modificar el diseño y la disposición de los elementos en una página web para que sea más fácil de usar, o agregar botones y atajos para las acciones más comunes.
+
+8. Análisis y visualización de datos: Finalmente, otra posible idea es el uso de una extensión para analizar y visualizar datos en una página web. Esto podría ser útil para los profesionales que necesitan analizar grandes cantidades de información en su trabajo, como los analistas de marketing o los científicos de datos. Por ejemplo, una extensión podría ser programada para extraer datos de una página web y presentarlos en forma de gráficos o tablas fáciles de entender.
 
 ## Contribuciones
 
