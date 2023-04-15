@@ -1,7 +1,7 @@
 {
-  "name": "herramientas_vti",
+  "name": "chromeDemoExt",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "Extension Chrome Demo V3",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",
