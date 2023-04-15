@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Extension Chrome Demo V3
+# <img src="public/icons/icon_48.png" width="45" align="left"> Extensión Chrome Demo V3
 
 Este repositorio permite crear una extensión para Chrome con la cual se podrá agregar textos predefinidos en cajas de texto, crear textos personalizados para utilizar luego, buscar información en Google y contar caracteres.
 
