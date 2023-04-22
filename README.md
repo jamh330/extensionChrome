@@ -46,6 +46,8 @@ https://github.com/dutiyesh/chrome-extension-cli
     
     5.4 Selecciona la carpeta "my-extension/build"
 
+    5.5 Reiniciar Navegador. En algunas ocaciones se ha detectado un error con ventas ya abiertas antes de cargar la app, por lo cual se sugiere reiniciar el navegador
+
 ## Tecnologías utilizadas
 
 - [JavaScript]
