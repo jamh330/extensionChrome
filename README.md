@@ -17,24 +17,24 @@ https://github.com/dutiyesh/chrome-extension-cli
 ```
 2. Navega hasta la carpeta del proyecto:
 ```bash
-    `cd extensionChrome`
+    cd extensionChrome
 ```
 
 3. Instala las dependencias:
 ```bash
-    `npm install`
+    npm install
 ```
 
 4. Puedes comenzar a modificar el código o fabricar la aplicación
 
     4.1 Construir App (construye carpeta build para producción)
     ```bash
-      `npm run build`
+      npm run build
     ```
 
     4.2 Dejar App en modo escucha para guardar cambios
     ```bash
-      `npm run watch`
+      npm run watch
     ```
 5. Una vez tengas tus cambios realizados y se haya creado la carpeta build, realiza los siguientes pasos
 
