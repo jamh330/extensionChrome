@@ -51,7 +51,7 @@ https://github.com/dutiyesh/chrome-extension-cli
 - [JavaScript]
 - [HTML]
 - [CSS]
-- [Node.js](https://nodejs.org/)
+- [Node.js  v 16.15.1](https://nodejs.org/)
 - [Chrome Extension API](https://developer.chrome.com/docs/extensions/reference/)
 - [chrome-extension-cli](https://www.npmjs.com/package/chrome-extension-cli)
 
